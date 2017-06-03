@@ -1,0 +1,6 @@
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\obj\Debug\EncryptFile_Test.csprojResolveAssemblyReference.cache
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\bin\Debug\EncryptFile_Test.exe.config
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\bin\Debug\EncryptFile_Test.exe
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\bin\Debug\EncryptFile_Test.pdb
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\obj\Debug\EncryptFile_Test.exe
+c:\users\karthik\documents\visual studio 2017\Projects\EncryptFile_Test\EncryptFile_Test\obj\Debug\EncryptFile_Test.pdb
